@@ -49,7 +49,7 @@ namespace DIAMOND
             {
                 for (d = 1; d <= j; d++)                    // draw spaces
                 {
-                    Console.Write("_");
+                    Console.Write(" ");
                 }
 
                 Console.Write(c);
@@ -58,13 +58,13 @@ namespace DIAMOND
                     z = ((int)c - (int)'A') * 2 - 1;
                     for (f = 1; f <= z; f++)
                     {
-                        Console.Write("_");
+                        Console.Write(" ");
                     }
                     Console.Write(c);
                 }
                 for (d = 1; d <= j; d++)                         // draw spaces
                 {
-                    Console.Write("_");
+                    Console.Write(" ");
                 }
                 Console.WriteLine();
 
