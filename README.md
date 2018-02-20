@@ -12,11 +12,13 @@ This programm was created according to the [task](https://github.com/davidwhitne
                 file name   | Description of file
     ------------------------|----------------------
             readme.md       | Instruction for users of the directory
-            Diamond.sln     | it's visual studio file of all progect (the way: diamond1/ConsoleApplication1)
+            Diamond.sln     | it's a file with structure for organizing projects in Visual Studio. (the way:
+                            | diamond1/ConsoleApplication1)
     ConsoleApplication1.exe | This file is a ready-made app that can be started and you run in the created application (the way: 
                             | diamond1/ConsoleApplication1/bin/Debug)
             App.config      | It's the configuration of progect (the way: diamond1/ConsoleApplication1)
-          Diamond.csproj    | It's .... (the way: diamond1/ConsoleApplication1)
+          Diamond.csproj    | It's is a Visual Studio .NET C# Project file extension. This file will have information about the files
+                            | included in that project. (the way: diamond1/ConsoleApplication1)
             Program.cs      | This file includes the cod of my programm (the way: diamond1/ConsoleApplication1)
             
        
@@ -37,5 +39,5 @@ This programm was created according to the [task](https://github.com/davidwhitne
     * Be happy! 
     
     
- **Thank you for attention**
+ **Thank you for attention!**
 
