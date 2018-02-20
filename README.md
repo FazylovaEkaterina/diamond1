@@ -1,1 +1,2 @@
-diamond 1
+Hello!
+
